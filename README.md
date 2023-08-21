@@ -1,5 +1,5 @@
 # 💫 About Me:
-indie flutter developer
+# MOBİLE DEVELOPER
 
 
 
