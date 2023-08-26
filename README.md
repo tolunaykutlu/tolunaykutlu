@@ -1,6 +1,5 @@
 # 💫 About Me:
-#  DEVELOPER
-
+#  Mobile Developer
 
 
 ## 🌐 Socials:
