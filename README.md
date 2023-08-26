@@ -1,5 +1,5 @@
 # 💫 About Me:
-# MOBİLE DEVELOPER
+#  DEVELOPER
 
 
 
